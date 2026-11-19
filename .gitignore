@@ -11,4 +11,5 @@ wheels/
 
 # generated files
 game_state.jsonl
-/.main.py.swp
+game_events.jsonl
+/**.swp
